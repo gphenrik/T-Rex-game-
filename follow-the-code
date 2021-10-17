@@ -1,0 +1,2 @@
+Runner.prototype.gameOver = function(){console.log}
+Runner.istance_.setSpeed(100)
